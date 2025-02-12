@@ -1,4 +1,4 @@
-# kibana
+# Kibana
 
 Die Integration kann auf die üblicher Art und Weiße durchgeführt werden.
 
